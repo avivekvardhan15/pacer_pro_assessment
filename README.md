@@ -26,6 +26,6 @@ sudo ./SumoCollector_linux_amd64_19_534-2.sh
 
 Terraform comands:
 
-terraform init
-terraform apply
+terraform init, 
+terraform apply, 
 terraform output
